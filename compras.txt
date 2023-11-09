@@ -3,3 +3,8 @@ Comida
 - Feijão
 - Arroz
 - Sal
+Limpeza
+---------
+- Detergente
+- Água sanitária
+- Limpa vidro
